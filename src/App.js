@@ -5,7 +5,6 @@ import InfoLabel from './components/InfoLabel';
 import Image from './components/Image';
 import Message from './components/Message';
 import Icon from './components/Icon';
-import ChatCard from './components/ChatCard';
 import ChatsList from './components/ChatsList';
 
 function App() {
